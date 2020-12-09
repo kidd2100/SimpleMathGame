@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606948461 source:c:\users\wildd\onedrive\desktop\eric's projects\two player math game\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+
